@@ -1,0 +1,33 @@
+* {
+  text-align: center;
+}
+
+.bold {
+  color: yellow;
+}
+
+.app_form {
+  padding: 20px;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background: #e9e9eb;
+  margin: 20px;
+}
+
+
+.app__iconButton {
+  flex: 0 !important;
+}
+
+.app__input {
+  flex: 1;
+}
+
+
+.app_formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
